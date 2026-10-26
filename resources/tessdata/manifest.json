@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/tesseract-ocr/tessdata_fast",
+  "revision": "87416418657359cb625c412a48b6e1d6d41c29bd",
+  "files": {
+    "eng.traineddata": {"sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2", "bytes": 4113088},
+    "chi_tra.traineddata": {"sha256": "529c5b5797d64b126065cd55f2bb4c7fd7b15790798091b1ff259941a829330b", "bytes": 2366642},
+    "LICENSE": {"sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30", "bytes": 11358}
+  }
+}
